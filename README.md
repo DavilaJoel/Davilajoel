@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Joe
 
-<!--
-**DavilaJoel/Davilajoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web especializado en PHP, MySQL, HTML/CSS y JavaScript.
 
-Here are some ideas to get you started:
+💻 Creador de Pixnet, una red social con sistema de usuarios, modo oscuro y más.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Aquí comparto mis proyectos y código abierto.
+
+---
+
+### Tecnologías
+
+- PHP | MySQL | JavaScript  
+- HTML5 | CSS3 | Git
+
+---
+
+### Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-joe-black?style=for-the-badge&logo=github)](https://github.com/joe)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joe)  
